@@ -11,4 +11,38 @@ Welcome to the official documentation for the **PaperRig** plugin.
 
 ---
 
-For feedback, suggestions, or commercial support, please feel free to open an issue or contact the development team.
+## 📣 Technical Support
+
+For feedback, suggestions, or commercial support, please contact us via:
+- 🎥 **Video Tutorials**:  
+  [YouTube](https://youtube.com) | [bilibili](https://bilibili.com)
+
+- 💬 **Community**:  
+  [Discord](https://discord.com/invite/SBfZg72Y)
+
+- 🗺️ **Roadmap**:  
+  Coming soon
+
+- 📧 **Email**:  
+  [support@guanguangames.com](mailto:support@guanguangames.com)
+
+---
+
+## ✨ Features
+
+- ✅ Built on UE native Skeletal Mesh and Skeleton assets  
+- ✅ Supports animation driving through standard tools like **Anim Blueprint**, **Sequencer**, and **Curves**  
+- ✅ Layer controllers implemented via animation curves / morph targets  
+- ✅ Layer-to-bone binding for paper doll style character animation  
+- ✅ Weighted skinning & hierarchical bone control supported  
+- ✅ Consistent behavior both at **runtime** and in **editor**
+
+---
+
+## ❤️ Our Mission
+
+PaperRig aims to provide a **dependency-free**, **lightweight**, and **workflow-consistent** 2D skeletal animation solution.
+
+We are committed to continuously improving its features and welcome community feedback and contributions!
+
+---
