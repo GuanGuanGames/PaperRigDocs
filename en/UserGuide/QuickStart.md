@@ -106,8 +106,8 @@ SetPaperRigControlValue(Actor, ControlName, Value)
 - **ControlName**: Controller name
 - **Value**: Controller value
 
-> For details, see: 📘 Runtime Usage Documentation
-> For more Blueprint functions, see: [📘 EditorUsage Documentation](./EditorUsage.md)
+> For details, see: 📘 [📘 Runtime Usage Documentation](./RuntimeUsage.md)     
+> For more Blueprint functions, see: [📘 Blueprint API Documentation](../API/BlueprintAPI.md)
 
 ## 8. Preview & Runtime Behavior
 Whether in editor viewport, during runtime, or in asset preview, layers will deform with skeletal animation and respond to controller values in real time.
