@@ -15,7 +15,7 @@ Welcome to the official documentation for the **PaperRig** plugin.
 
 For feedback, suggestions, or commercial support, please contact us via:
 - 🎥 **Video Tutorials**:  
-  [YouTube](https://youtube.com) | [bilibili](https://bilibili.com)
+  [YouTube](https://www.youtube.com/playlist?list=PLcX2KvWEiJ4D80jZgjjNGjGjOvuoWWJPS) | [Bilibili](https://www.bilibili.com/list/3546910344350104)
 
 - 💬 **Community**:  
   [Discord](https://discord.com/invite/SBfZg72Y)
