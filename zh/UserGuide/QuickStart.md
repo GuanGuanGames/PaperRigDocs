@@ -114,7 +114,7 @@ SetPaperRigControlValue(Actor, ControlName, Value)
 
 ---
 
-## 7. 预览与运行时效果
+## 8. 预览与运行时效果
 
 无论在编辑器视口、运行时，还是资产预览窗口中，图层都将随骨骼动画实时变形，并根据控制器数值做出响应。
 
