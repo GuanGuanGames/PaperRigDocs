@@ -32,7 +32,6 @@ Before you begin, make sure the following requirements are met:
 
 1. **No duplicate layer names** (even if in different groups)
 2. Recommended naming conventions: e.g., `hat_01`, `hat_02`, `body_01`
-3. Layer groups are supported, but deep nesting is discouraged
 
 ### Import Steps:
 
