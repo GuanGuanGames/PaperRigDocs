@@ -14,16 +14,16 @@ Welcome to the official documentation for the **PaperRig** plugin.
 ## 📣 Technical Support
 
 For feedback, suggestions, or commercial support, please contact us via:
-- 🎥 **Video Tutorials**:  
+- 🎥 **Video Tutorials**:
   [YouTube](https://www.youtube.com/playlist?list=PLcX2KvWEiJ4D80jZgjjNGjGjOvuoWWJPS) | [Bilibili](https://www.bilibili.com/list/3546910344350104)
 
-- 💬 **Community**:  
-  [Discord](https://discord.com/invite/SBfZg72Y)
+- 💬 **Community**:
+  [Discord](https://discord.com/invite/KRcfrXtytn)
 
-- 🗺️ **Roadmap**:  
+- 🗺️ **Roadmap**:
   Coming soon
 
-- 📧 **Email**:  
+- 📧 **Email**:
   [support@guanguangames.com](mailto:support@guanguangames.com)
 
 ---
